@@ -1,6 +1,6 @@
-// ==========================
+
 // SEARCH PRODUCTS
-// ==========================
+
 
 let searchInput = document.getElementById("search");
 
